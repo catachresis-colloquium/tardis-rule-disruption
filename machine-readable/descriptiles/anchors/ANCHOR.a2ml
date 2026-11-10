@@ -9,7 +9,7 @@ last-updated = "2026-09-02"
 
 [anchor]
 schema = "hyperpolymath.anchor/1"
-repo = "metadatastician/tardis-rule-disruption"
+repo = "catachresis-colloquium/tardis-rule-disruption"
 authority = "upstream-canonical"
 
 purpose = [

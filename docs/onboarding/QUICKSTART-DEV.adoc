@@ -23,7 +23,7 @@ guix shell
 
 [source,bash]
 ----
-git clone https://github.com/metadatastician/tardis-rule-disruption.git
+git clone https://github.com/catachresis-colloquium/tardis-rule-disruption.git
 cd tardis-rule-disruption
 just setup-dev
 ----
@@ -100,5 +100,5 @@ Or read `0-AI-MANIFEST.a2ml` and `.claude/CLAUDE.md` directly.
 == Get Help
 
 * **Architecture**: link:EXPLAINME.adoc[EXPLAINME.adoc]
-* **Wiki**: https://github.com/metadatastician/tardis-rule-disruption/wiki
+* **Wiki**: https://github.com/catachresis-colloquium/tardis-rule-disruption/wiki
 * **Report issue**: `just help-me`

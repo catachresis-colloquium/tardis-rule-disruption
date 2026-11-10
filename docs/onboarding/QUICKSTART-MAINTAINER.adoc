@@ -19,7 +19,7 @@ UNASSIGNED
 
 [source,bash]
 ----
-git clone https://github.com/metadatastician/tardis-rule-disruption.git
+git clone https://github.com/catachresis-colloquium/tardis-rule-disruption.git
 cd tardis-rule-disruption
 just build-release
 ----
@@ -119,5 +119,5 @@ Each instance has isolated config, data, and logs.
 
 == Reporting Issues
 
-* Upstream: https://github.com/metadatastician/tardis-rule-disruption/issues
+* Upstream: https://github.com/catachresis-colloquium/tardis-rule-disruption/issues
 * With diagnostic: `just help-me` (pre-fills context)

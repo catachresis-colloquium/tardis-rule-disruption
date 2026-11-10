@@ -15,7 +15,7 @@
 # fact anyone can recompute and check — never copy one from another repo, and
 # never make one up. Recompute this one any time with:
 #
-#     uuidgen --sha1 --namespace @url --name "github.com/metadatastician/tardis-rule-disruption"
+#     uuidgen --sha1 --namespace @url --name "github.com/catachresis-colloquium/tardis-rule-disruption"
 #
 # Verify the method first by reproducing a known worked example:
 #     janus example -> e216170e-ff47-5a5c-bbdd-15e61c8190c8
@@ -23,9 +23,9 @@
 # The owner segment is part of the derived name, so it is part of the IDENTITY:
 # the same repo hosted under a different owner has a different uuid. Record the
 # owner that is TRUE TODAY, and re-derive if it ever moves.
-uuid = "72f57722-eba3-5656-8e14-354b5f1d6889"
+uuid = "4b02f824-6376-5065-a82e-1ab56a6a71b1"
 primary-forge = "github"
-primary-owner = "metadatastician"
+primary-owner = "catachresis-colloquium"
 canonical-name = "tardis-rule-disruption"
 prefixed-name = "gm-tardis-rule-disruption"
 
@@ -83,7 +83,7 @@ assigned = "2026-09-02"
 rationale = "Reserved member of the Stealth Glider line (Conway-lawful interactive experiences); inherits the line's clade until its own intent is specified."
 
 [forges]
-github = "metadatastician/tardis-rule-disruption"
+github = "catachresis-colloquium/tardis-rule-disruption"
 gitlab = ""       # populated if/when mirrored
 bitbucket = ""    # populated if/when mirrored
 
