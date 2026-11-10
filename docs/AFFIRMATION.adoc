@@ -83,7 +83,7 @@ file. Bring a counter-example, a failing run, or a contradicting source.
 [cols="1,3"]
 |===
 | Project | TARDIS
-| Repository | https://github.com/metadatastician/tardis-rule-disruption
+| Repository | https://github.com/catachresis-colloquium/tardis-rule-disruption
 | Commit (SHA) | <full commit SHA at time of signing>
 | Branch | main
 | Timestamp (UTC) | <ISO-8601 UTC timestamp>

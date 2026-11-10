@@ -3,7 +3,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 Copyright (c) Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>
 -->
 # Clone the repository
-git clone https://github.com/metadatastician/tardis-rule-disruption.git
+git clone https://github.com/catachresis-colloquium/tardis-rule-disruption.git
 cd tardis-rule-disruption
 
 # Using Guix (recommended for reproducibility)
@@ -71,10 +71,10 @@ Use the [feature request template](ISSUE_TEMPLATE/feature_request.yml) and inclu
 
 Look for issues labelled:
 
-- [`good first issue`](https://github.com/metadatastician/tardis-rule-disruption/labels/good%20first%20issue) — Simple Perimeter 3 tasks
-- [`help wanted`](https://github.com/metadatastician/tardis-rule-disruption/labels/help%20wanted) — Community help needed
-- [`documentation`](https://github.com/metadatastician/tardis-rule-disruption/labels/documentation) — Docs improvements
-- [`perimeter-3`](https://github.com/metadatastician/tardis-rule-disruption/labels/perimeter-3) — Community sandbox scope
+- [`good first issue`](https://github.com/catachresis-colloquium/tardis-rule-disruption/labels/good%20first%20issue) — Simple Perimeter 3 tasks
+- [`help wanted`](https://github.com/catachresis-colloquium/tardis-rule-disruption/labels/help%20wanted) — Community help needed
+- [`documentation`](https://github.com/catachresis-colloquium/tardis-rule-disruption/labels/documentation) — Docs improvements
+- [`perimeter-3`](https://github.com/catachresis-colloquium/tardis-rule-disruption/labels/perimeter-3) — Community sandbox scope
 
 ---
 
