@@ -59,7 +59,7 @@ TypeScript is permitted under Bun. The "use ReScript" rule is retired — ReScri
 
 # This repo: `tardis-rule-disruption`  ·  clade `gm-tardis-rule-disruption`
 
-- **Identity** — uuid `4b02f824-6376-5065-a82e-1ab56a6a71b1`; clade `gm` (secondary ``); born 2026-09-02; forge `catachresis-colloquium/tardis-rule-disruption`.
+- **Identity** — uuid `72f57722-eba3-5656-8e14-354b5f1d6889`; clade `gm` (secondary ``); born 2026-09-02; forge `catachresis-colloquium/tardis-rule-disruption`.
 - **IS** — Seventh Stealth Glider investigation (reserved). TARDIS = Totally-Adherent Rule-Disruption Imitation System: make a Conway Game of Life set-up look as much like 'reality' as it possibly can while never breaking B3/S23. 'Totally' is deliberate: it only appears to break the rules. Hard invariant: Conway-lawful (checkable). Open target: resembles reality (unmeasured until a measure is chosen). Lifetime, open-ended research, probably never completed; adaptable as a maths challenge, education on constraints or game-design thinking. Intent recorded 2026-09-02 (owner ruling); no implementation yet.
 - **IS-NOT** — a shipped or playable game · a claim that the reality target is achievable, or a measure of it (only the intent is recorded) · a rename or fork of any earlier Stealth Glider project · the coordination hub for the line
 - **Where it sits** — pipeline position **seventh Stealth Glider investigation**; chain `f19-stealth-glider -> f117a-stealth-glider -> sr71-blackglider -> x15-rocket-glider -> planer-1 -> enterglide-ncc-137-k -> tardis-rule-disruption`; coordination = `catachresis-colloquium/stealth-glider-ecosystem`.
